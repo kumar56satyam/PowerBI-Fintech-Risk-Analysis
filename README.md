@@ -8,7 +8,8 @@ An interactive **Power BI dashboard** designed to analyze loan performance, cust
 
 > Add your dashboard screenshot below.
 
-![Dashboard](Screenshots/dashboard.png)
+<img width="1427" height="801" alt="Screenshot 2026-08-07 120006" src="https://github.com/user-attachments/assets/a769ffd0-9ca0-44af-8e8b-4939e9338f0f" />
+
 
 ---
 
