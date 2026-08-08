@@ -104,14 +104,6 @@ PowerBI-Fintech-Risk-Analysis/
 
 ---
 
-## 🚀 How to Use
-
-1. Download the repository.
-2. Open the `.pbix` file using Power BI Desktop.
-3. If prompted, reconnect the dataset.
-4. Interact with the slicers to explore the dashboard.
-
----
 
 ## 📧 Author
 
